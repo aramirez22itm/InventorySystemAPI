@@ -1,5 +1,5 @@
 <Solution>
   <Project Path="InventorySystem.DataAccess/InventorySystem.DataAccess.csproj" />
   <Project Path="InventorySystem.Domain/InventorySystem.Domain.csproj" />
-  <Project Path="InventorySystem/InventorySystem.csproj" />
+  <Project Path="InventorySystem/InventorySystem.API.csproj" />
 </Solution>
