@@ -8,3 +8,4 @@ public class Warehouse : AuditBase // Hereda Id y fechas de AuditBase
     public string Address { get; set; } = string.Empty; // Dirección
     public int Capacity { get; set; } // Capacidad de almacenamiento
 }
+// Cambio para forzar carpetas
